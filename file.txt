@@ -1,0 +1,3 @@
+project: college management system
+module: student registration
+module: student login
